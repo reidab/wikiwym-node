@@ -1,0 +1,15 @@
+{
+  "author": "Reid Beels <mail@reidbeels.com> (http://reidbeels.com)",
+  "name": "wikiwym",
+  "description": "A module wrapping wikiwym, A simple WYSIWYM Google Code wiki to HTML converter",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~v0.4.10"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "./main"
+}
